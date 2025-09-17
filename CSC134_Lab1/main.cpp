@@ -59,7 +59,7 @@ int main()
     //writes test grades and average in the output.txt file
     outFile <<  "Grade for Test 1: " << num1 << "\nGrade for Test 2: " << num2 << "\nGrade for Test 3: " << num3 << "\nGrade for Test 4: " << num4 << "\nGrade for Test 5: " << num5;
     outFile << "\ntest average: " << average;
-    outputFile.close();
+    outFile.close();
 
     return 0;
 }

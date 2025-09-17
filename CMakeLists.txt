@@ -10,4 +10,5 @@ add_executable(WakeTechC__
         CSC134_Lab1/IPO_Algorithm_Example.docx
         CSC134_Lab1/main.cpp
         CSC134_Lab1/Translate_IPO_into_C++.docx
-        CSC134_Lab1/~\$C134_Lab1.docx)
+        CSC134_Lab3/Pai_Lab3.cpp
+        CSC134_Lab3/Pai_Lab3.h)

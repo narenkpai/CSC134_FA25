@@ -1,6 +1,6 @@
-Grade for Test 1: 90
-Grade for Test 2: 91
-Grade for Test 3: 92
-Grade for Test 4: 93
-Grade for Test 5: 94
-test average: 92
+Grade for Test 1: 10
+Grade for Test 2: 10
+Grade for Test 3: 20
+Grade for Test 4: 90
+Grade for Test 5: 10
+test average: 28
